@@ -1,0 +1,1 @@
+export const countElement = document.getElementById('count');
