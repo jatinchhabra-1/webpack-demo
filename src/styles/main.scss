@@ -1,0 +1,11 @@
+$color-blue: #0076CE; 
+$color-white: #fff;
+
+button {
+    background-color: $color-blue;
+    color: $color-white;
+    font-size: 14px;
+    border-radius: 2px;
+    border: 1px solid $color-white;
+    padding: 10px;
+}

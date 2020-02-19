@@ -1,3 +1,5 @@
+import './styles/main.scss'
+
 import { countElement } from './const.js';
 
 var count = 0;
@@ -12,4 +14,4 @@ var decrementCount = function() {
     countElement.textContent = count;
 }
 
-export {incrementCount, decrementCount};
+export { incrementCount, decrementCount };
