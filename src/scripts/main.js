@@ -1,4 +1,5 @@
-import './styles/main.scss'
+import '../styles/main.scss'
+import '../html/demo.html'
 
 import { countElement } from './const.js';
 
